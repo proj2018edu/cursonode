@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "curso-node",
+  "description": "Repositório do curso de NodeJS da Hcode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/proj2018edu/cursonode.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Eduardo Marcelino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/proj2018edu/cursonode/issues"
+  },
+  "homepage": "https://github.com/proj2018edu/cursonode#readme"
+}
